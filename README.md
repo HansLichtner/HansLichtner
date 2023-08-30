@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ##
    
-  ### Languages, Tools and Skills 👨‍💻
+  ### Languages, Tools and Skills 🛠️
 
  <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
