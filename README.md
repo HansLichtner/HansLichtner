@@ -13,25 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello there 👋
+##
 
-I'm Hans Lichtner
-  
+  ## Hello there 👋
+
 * 📚 Graduated in Analysis and Software Development 🎓
 
 * 💼 Currently working as Freelance Developer 💻
 
-  ##
+##
   
-   ### My updates here 🚀:
+   ### My GitHub Stats 📈
    
  <div align="center">
   <a href="https://github.com/HansLichtner">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HansLichtner&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansLichtner&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HansLichtner&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HansLichtner&layout=compact&langs_count=7&theme=merko"/>
 </div>
     
-  ##
+##
    
   ### 👨‍💻 Some technologies that I'm interested in:
     
