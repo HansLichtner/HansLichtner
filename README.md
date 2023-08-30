@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 ## Hello there 👋
 
 I'm Hans Lichtner
-
-* 💼 I’m currently working as Freelance Developer 💻
   
 * 📚 Graduated in Analysis and Software Development 🎓
+
+* 💼 Currently working as Freelance Developer 💻
 
   ##
   
